@@ -2,8 +2,6 @@
 
 Sou um desenvolvedor focado em construir soluções web modernas e escaláveis. Trabalho com várias tecnologias e frameworks, sempre buscando aprender e aplicar as melhores práticas.
 
-## Portifólio:
-https://pedroszh.github.io/Portif-lio/
 
 ## 🚀 Tecnologias e Ferramentas:
 
