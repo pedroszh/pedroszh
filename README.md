@@ -28,13 +28,13 @@ Sou um desenvolvedor de frontend apaixonado por tecnologia, com foco em construi
 [Meu Portfólio](https://github.com/pedroszh/meuPortifolio.git)
 
 Projetos principais:
-- 🔗 [Projeto 1](https://github.com/exemplo1) - Descrição breve.
-- 🔗 [Projeto 2](https://github.com/exemplo2) - Descrição breve.
+- 🔗 [Projeto 1](https://github.com/exemplo1) - 
+- 🔗 [Projeto 2](https://github.com/exemplo2) - 
 
 ---
 
 ## 📫 **Entre em Contato**
-- 💌 **E-mail:** pedrohenrique@email.com  
+- 💌 **E-mail:** pedrinho.sousasantos34@gmail.com
 - 🔗 **LinkedIn:** [Pedro Henrique](https://www.linkedin.com/in/pedro-szh/)  
 
 ---
