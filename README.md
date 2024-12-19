@@ -28,7 +28,7 @@ Sou um desenvolvedor de frontend apaixonado por tecnologia, com foco em construi
 [Meu Portfólio](https://github.com/pedroszh/meuPortifolio)
 
 Projetos principais:
-- 🔗 [Projeto 1](https://github.com/exemplo1) - 
+- 🔗 [Projeto 1](https://github.com/pedroszh/ListaCompras) - 
 - 🔗 [Projeto 2](https://github.com/exemplo2) - 
 
 ---
