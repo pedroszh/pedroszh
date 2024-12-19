@@ -7,7 +7,7 @@ Sou um desenvolvedor de frontend apaixonado por tecnologia, com foco em construi
 ## 🌟 **Sobre mim**
 - 🎓 Estudante em Análise e Desenvolvimento de Sistemas.
 - 💼 Atualmente aprimorando minhas habilidades em React e TypeScript.
-- 📖 Aprendendo mais sobre **arquitetura de software** e **boas práticas de programação**.
+- 📖 Aprendendo mais sobre **Frontend** e **boas práticas de programação**.
 
 ---
 
