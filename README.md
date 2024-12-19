@@ -28,8 +28,8 @@ Sou um desenvolvedor de frontend apaixonado por tecnologia, com foco em construi
 [Meu Portfólio](https://github.com/pedroszh/meuPortifolio)
 
 Projetos principais:
-- 🔗 [Projeto 1](https://github.com/pedroszh/ListaCompras) - 
-- 🔗 [Projeto 2](https://github.com/exemplo2) - 
+- 🔗 [Projeto 1](https://github.com/pedroszh/ListaCompras) - Este projeto é uma aplicação web simples de gerenciamento de itens utilizando as operações CRUD
+- 🔗 [Projeto 2](https://github.com/pedroszh/Git-Finder) - Este projeto é uma aplicação React que permite pesquisar e visualizar informações de perfis do GitHub utilizando a API pública do GitHub.
 
 ---
 
