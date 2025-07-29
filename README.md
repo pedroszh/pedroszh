@@ -1,51 +1,47 @@
-# Olá! Eu sou Pedro Henrique 👋
+![Banner](https://img.shields.io/badge/Pedro%20Henrique%20Sousa%20Santos-Desenvolvedor%20Front--end-blueviolet?style=for-the-badge)
 
-Sou um desenvolvedor de frontend apaixonado por tecnologia, com foco em construir **soluções web modernas e escaláveis**. Trabalho com diversas tecnologias e frameworks, sempre me atualizando e aplicando as melhores práticas para entregar projetos de alta qualidade.
+# 👋 Olá! Eu sou Pedro Henrique  
 
----
-
-## 🌟 **Sobre mim**
-- 🎓 Estudante em Análise e Desenvolvimento de Sistemas.
-- 💼 Atualmente aprimorando minhas habilidades em React e TypeScript.
-- 📖 Aprendendo mais sobre **Frontend** e **boas práticas de programação**.
+Sou desenvolvedor Front-end com formação em **Análise e Desenvolvimento de Sistemas (IESB)** e apaixonado por tecnologia.  
+Meu foco é criar soluções web modernas, responsivas e escaláveis, utilizando boas práticas de programação e sempre buscando evoluir tecnicamente.
 
 ---
 
-## 🚀 **Tecnologias e Ferramentas**
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+## 🌟 Sobre mim
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (Conclusão em 2025)**  
+- 💼 Aperfeiçoando minhas habilidades em **React.js** e **TypeScript**  
+- 📖 Estudando boas práticas de desenvolvimento Front-end, consumo de APIs e interfaces responsivas  
 
 ---
 
-## 📂 **Portfólio**
-💼 Você pode conferir meus projetos no repositório abaixo:  
-[Meu Portfólio](https://github.com/pedroszh/meuPortifolio)
-
-Projetos principais:
-- 🔗 [Projeto 1](https://github.com/pedroszh/ListaCompras) - Este projeto é uma aplicação web simples de gerenciamento de itens utilizando as operações CRUD
-- 🔗 [Projeto 2](https://github.com/pedroszh/Git-Finder) - Este projeto é uma aplicação React que permite pesquisar e visualizar informações de perfis do GitHub utilizando a API pública do GitHub.
-
----
-
-## 📫 **Entre em Contato**
-- 💌 **E-mail:** pedrinho.sousasantos34@gmail.com
-- 🔗 **LinkedIn:** [Pedro Henrique](https://www.linkedin.com/in/pedro-szh/)  
+## 🚀 Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 **Minhas Estatísticas**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroszh&show_icons=true&theme=radical" alt="Pedro's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroszh&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
+## 📂 Portfólio
+Confira alguns projetos disponíveis aqui no meu GitHub:  
+- **[Git Finder](https://github.com/pedroszh/Git-Finder)** – Aplicação React que consome a API do GitHub para buscar e exibir perfis com seguidores e localização.  
+- **Projeto CRUD** – Aplicação web simples para gerenciamento de itens com operações CRUD.  
+- Mais projetos disponíveis nos meus repositórios.
 
 ---
 
-🌟 *“Aprender nunca é demais! Cada linha de código é um passo em direção a algo incrível.”*
+## 📫 Entre em Contato
+- **E-mail:** pedrohenriquesousasantos86@gmail.com  
+- **LinkedIn:** [Pedro Henrique Sousa Santos](https://www.linkedin.com/in/pedro-henrique-sousa-santos/)  
 
+---
+
+## 📊 Minhas Estatísticas
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroszh&show_icons=true&theme=dracula)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroszh&layout=compact&theme=dracula)
+
+> *"Aprender nunca é demais! Cada linha de código é um passo em direção a algo incrível."*
