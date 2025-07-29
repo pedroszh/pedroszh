@@ -29,7 +29,7 @@ Meu foco é criar soluções web modernas, responsivas e escaláveis, utilizando
 ## 📂 Portfólio
 Confira alguns projetos disponíveis aqui no meu GitHub:  
 - **[Git Finder](https://github.com/pedroszh/Git-Finder)** – Aplicação React que consome a API do GitHub para buscar e exibir perfis com seguidores e localização.  
-- **Projeto CRUD** – Aplicação web simples para gerenciamento de itens com operações CRUD.  
+- **[CRUD Lista de Compras](https://github.com/pedroszh/ListaCompras.git)** – Aplicação web simples para gerenciamento de itens com operações CRUD.  
 - Mais projetos disponíveis nos meus repositórios.
 
 ---
