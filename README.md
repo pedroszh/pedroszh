@@ -40,8 +40,6 @@ Confira alguns projetos disponíveis aqui no meu GitHub:
 
 ---
 
-## 📊 Minhas Estatísticas
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroszh&show_icons=true&theme=dracula)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroszh&layout=compact&theme=dracula)
+
 
 > *"Aprender nunca é demais! Cada linha de código é um passo em direção a algo incrível."*
